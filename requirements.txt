@@ -1,0 +1,6 @@
+streamlit
+huggingface_hub
+datasets
+faiss-cpu
+pandas
+numpy
